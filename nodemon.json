@@ -1,0 +1,8 @@
+{
+    "env":{
+        "PORT":"3443",
+        "MONGO_ATLAS_USER":"db-admin_1",
+        "MONGO_ATLAS_PWD":"yqg7bojyaBEfXVP0",
+        "JWT_KEY":"secr3t"
+    }
+}
